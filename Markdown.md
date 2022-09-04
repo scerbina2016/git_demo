@@ -20,4 +20,4 @@ One
 Two
 Three
 ```
-`#RRGGBB`
+`#0969DA`
