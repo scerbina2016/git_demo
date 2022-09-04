@@ -12,7 +12,7 @@ __This is a bold text__  ( __ without spaces __ ) <br>
 ***All important*** ( *** ______ *** ) <br>
 Subscript: <sub> Subscript text </sub> ( <sub> </sub> ) <br>
 Superscript: <sup> Superscript text </sup> (<sup> </sup>)
-> With quote ( знак больше ) <br>
+>With quote ( знак больше ) <br>
 One `two` three <br>
 ## distinct block
 ```
