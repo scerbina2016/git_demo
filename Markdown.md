@@ -21,12 +21,12 @@ Two
 Three
 ```
 This is a link [ Other ](https://www.w3schools.com/js/js_array_sort.asp).
-This is a [ picture ](https://docs.github.com/assets/cb-319648/images/help/writing/image-rendered.png).
-List ul: <br>
+This is a [ picture ](https://docs.github.com/assets/cb-319648/images/help/writing/image-rendered.png). <br>
+List ul:
 - One
 - two
-- three
-List ol: <br>
+- three <br>
+List ol:
 1. one
 2. two
 3. three
