@@ -20,4 +20,4 @@ One
 Two
 Three
 ```
-This is a link [Other] (https://www.w3schools.com/js/js_array_sort.asp)
+This is a link [Other] (https://www.w3schools.com/js/js_array_sort.asp).
