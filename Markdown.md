@@ -20,4 +20,4 @@ One
 Two
 Three
 ```
-`#ffffff`
+`#RRGGBB`
