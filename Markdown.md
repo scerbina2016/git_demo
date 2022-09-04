@@ -15,9 +15,8 @@ Superscript: <sup> Superscript text </sup> (<sup> </sup>)
 > With quote ( знак больше ) <br>
 One `two` three <br>
 ## distinct block
-Some basic Git commands are:
 ```
-git status
-git add
-git commit
+One
+Two
+Three
 ```
