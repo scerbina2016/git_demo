@@ -15,8 +15,8 @@ Superscript: <sup> Superscript text </sup> (<sup> </sup>)
 > With quote ( знак больше ) <br>
 One `two` three <br>
 ## distinct block
-...
+. . .
 One line
 Two line
 Three line
-...
+. . .
