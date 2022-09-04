@@ -10,5 +10,6 @@ __This is a bold text__  ( __ without spaces __ ) <br>
 ~~mistakes~~ (  ~~ ____________ ~~ )
 ## All bold and Italic: 
 ***All important*** ( *** ______ *** ) <br>
-Subscript: <sub> Subscript text </sub> ( <sub> </sub> )
-Superscript: <sup> Superscript text </sup>
+Subscript: <sub> Subscript text </sub> ( <sub> </sub> ) <br>
+Superscript: <sup> Superscript text </sup> (<sup> </sup>)
+> With quote
