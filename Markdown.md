@@ -9,5 +9,6 @@ __This is a bold text__  ( __ without spaces __ ) <br>
 ### Strikethrough:
 ~~mistakes~~ (  ~~ ____________ ~~ )
 ## All bold and Italic: 
-***All important*** ( *** ______ *** )
-
+***All important*** ( *** ______ *** ) <br>
+Subscript: <sub> Subscript text </sub> ( <sub> </sub> )
+Superscript: <sup> Superscript text </sup>
