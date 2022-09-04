@@ -25,8 +25,8 @@ This is a [ picture ](https://docs.github.com/assets/cb-319648/images/help/writi
 List ul:
 - One
 - two
-- three <br>
-List ol:
+- three
+<br>List ol:
 1. one
 2. two
 3. three
