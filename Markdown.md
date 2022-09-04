@@ -2,9 +2,9 @@
 ## two hash (##)
 ### three hash (###)
 ###### six hash (######)
-git_demo  simple
-**This is a bold text** ( ** without spaces ** )
-__This is a bold text__  
+git_demo  simple <br>
+**This is a bold text** ( ** without spaces ** ) <br>
+__This is a bold text__  <br>
 *This text is italicized* ( * without spaces * )
 ### Strikethrough:
 ~~mistakes~~ (  ~~ ____________ ~~ )
